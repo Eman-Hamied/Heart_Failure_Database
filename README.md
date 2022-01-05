@@ -1,4 +1,4 @@
-# Heart_Failute_Database
+# Heart Failure Database
 ![Project - HF prediction ](https://user-images.githubusercontent.com/76844909/148222200-a2b4c2f9-d016-4280-9262-5186a7c0ac58.jpg)
 
 
@@ -27,4 +27,4 @@ A group of clinical Researchers on a hospital started a research about the diagn
 ## More Details
 I created this project based on a dataset from kaggle 
 https://www.kaggle.com/fedesoriano/heart-failure-prediction
-and performed some coomplicated queries on this database.
+and performed some complicated queries on this database.
